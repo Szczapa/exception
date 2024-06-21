@@ -1,5 +1,5 @@
 
-# Exercice gestion des exceptions :
+# Exercices gestion des exceptions :
 
 Exercices pour apprendre la gestion des exceptions et des try-catch.
 
