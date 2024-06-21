@@ -14,6 +14,7 @@ public class app {
             System.out.println("1. Exercice 1");
             System.out.println("2. Exercice 2");
             System.out.println("3. Exercice 3");
+            System.out.println("4. Exercice 4");
             System.out.println("0. Quitter");
             try {
                 choice = Integer.parseInt(scanner.nextLine());
